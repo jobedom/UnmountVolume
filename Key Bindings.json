@@ -1,0 +1,3 @@
+[
+      { "keys": ["Cmd+Shift+F2"], "command": "unmount_volume" }
+]
